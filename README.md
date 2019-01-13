@@ -1,4 +1,4 @@
-# Python
+# Python Dojo
 Python Projects
 
 
@@ -18,10 +18,10 @@ Project 4: [String Compressor][1-1D]
 Project 5: [FizzBuss][1-1E]
 
 
-[1-1A]:  ./Python_Projects/Largest_Palindrome.ipynb
-[1-1B]:  ./Python_Projects/Summation_of_Primes.ipynb
-[1-1C]:  ./Python_Projects/Multiples_of_3_and_5.ipynb
-[1-1D]:  ./Python_Projects/String_Compressor.ipynb
-[1-1E]:  ./Python_Projects/FizzBuzz.ipynb
+[1-1A]:  ./Python_Projects/Largest_Palindrome
+[1-1B]:  ./Python_Projects/Summation_of_Primes
+[1-1C]:  ./Python_Projects/Multiples_of_3_and_5
+[1-1D]:  ./Python_Projects/String_Compressor
+[1-1E]:  ./Python_Projects/FizzBuzz
 
 ---
