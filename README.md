@@ -8,9 +8,13 @@ This repo is a collection of different Python problems I have worked on:
 ### Project Breakdown
 
 Project 1: [Largest Palindrome][1-1A]
+
 Project 2: [Summation of Primes][1-1B]
+
 Project 3: [Multiples of 3 and 5][1-1C]
+
 Project 4: [String Compressor][1-1D]
+
 Project 5: [FizzBuss][1-1E]
 
 
