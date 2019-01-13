@@ -4,8 +4,6 @@
 This repo is a collection of different Python problems I have worked on:
 
 
-### Project Breakdown
-
 Project 1: [Largest Palindrome][1-1A]
 
 Project 2: [Summation of Primes][1-1B]
