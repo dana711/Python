@@ -1,5 +1,4 @@
 # Python Dojo
-Python Projects
 
 
 This repo is a collection of different Python problems I have worked on:
