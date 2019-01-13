@@ -14,7 +14,7 @@ Project 3: [Multiples of 3 and 5][1-1C]
 
 Project 4: [String Compressor][1-1D]
 
-Project 5: [FizzBuss][1-1E]
+Project 5: [FizzBuzz][1-1E]
 
 
 [1-1A]:  ./Python_Projects/Largest_Palindrome
